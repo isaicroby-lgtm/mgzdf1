@@ -1,0 +1,301 @@
+"filename", "language", "JavaScript", "XML", "JSON", "JSON with Comments", "Markdown", "JavaScript JSX", "TypeScript", "CSS", "HTML", "Properties", "comment", "blank", "total"
+"c:\Users\Robert Isaic\Desktop\doifrati-main\.env", "Properties", 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 1, 10
+"c:\Users\Robert Isaic\Desktop\doifrati-main\README.md", "Markdown", 0, 0, 0, 0, 23, 0, 0, 0, 0, 0, 0, 14, 37
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\account.js", "JavaScript", 103, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 121
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\blog.js", "JavaScript", 219, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 273
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\comenzi.js", "JavaScript", 182, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44, 226
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\contact.js", "JavaScript", 66, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 80
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\cupoane.js", "JavaScript", 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 86
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\email.js", "JavaScript", 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 45
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\emailMarketing.js", "JavaScript", 104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 120
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\groups.js", "JavaScript", 73, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 18, 97
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\newsletter.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 17
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\products.js", "JavaScript", 253, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 56, 309
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\refund.js", "JavaScript", 77, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 18, 96
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\seo.js", "JavaScript", 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 10, 47
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\seoSsr.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\setari-rules.js", "JavaScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 37
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\shipping.js", "JavaScript", 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 58
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\smartbill.js", "JavaScript", 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 20, 94
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\static-pages.js", "JavaScript", 68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 85
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\stats.js", "JavaScript", 149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 34, 196
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\stock.js", "JavaScript", 82, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 98
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\unread.js", "JavaScript", 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 64
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\userInfo.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 16
+"c:\Users\Robert Isaic\Desktop\doifrati-main\api\users.js", "JavaScript", 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 105
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\blog\nou\[blogId]\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 5, 22
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\blog\nou\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 5, 22
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\blog\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\comenzi\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 5, 21
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\email-marketing\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\layout.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 124, 0, 0, 0, 0, 0, 16, 140
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\menue-items.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 182, 0, 0, 0, 0, 0, 26, 208
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\mesaje-si-formulare\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 4, 18
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\pagini-statice\[pageId]\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 106, 0, 0, 0, 0, 0, 13, 119
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\pagini-statice\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\produse-adauga\[id]\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\produse-adauga\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\produse-grupare\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\produse-stoc\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\produse\[productName]\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\produse\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\recenzii\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\seo\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\setari-website\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\style.js", "JavaScript", 533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 31, 566
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\admin\utilizatori\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\am-uitat-parola\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 106, 0, 0, 0, 0, 0, 8, 114
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\blog\[blogName]\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 24, 0, 0, 0, 0, 0, 7, 31
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\blog\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 6, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\checkout\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 4, 15
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\comanda-finalizata\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 29, 0, 0, 0, 0, 0, 7, 36
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\creeaza-cont\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 132, 0, 0, 0, 0, 5, 16, 153
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\globals.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1383, 0, 0, 50, 326, 1759
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\layout.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 40, 0, 0, 0, 0, 0, 14, 54
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\login\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 98, 0, 0, 0, 0, 0, 12, 110
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\magazin\[productName]\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 21, 0, 0, 0, 0, 0, 6, 27
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\magazin\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 19, 0, 0, 0, 0, 0, 7, 26
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\not-found.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 2, 16
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 25, 0, 0, 0, 0, 5, 6, 36
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\plata-card\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 34, 0, 0, 0, 0, 0, 6, 40
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\politica-anulare-comanda\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\politica-de-confidentialitate\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\politica-de-cookies\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\politica-de-livrare\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\politica-de-retur\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 209, 0, 0, 0, 0, 0, 13, 222
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\resetare-parola\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 93, 0, 0, 0, 0, 0, 8, 101
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\sitemap.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 5, 22
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\termeni-si-conditii\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\app\vezi-factura\[orderId]\page.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 7, 21
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\LICENSE.md", "Markdown", 0, 0, 0, 0, 35, 0, 0, 0, 0, 0, 0, 15, 50
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\README.md", "Markdown", 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 28, 61
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\ckeditor.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 34, 0, 0, 0, 4, 1, 39
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\ckeditor.js", "JavaScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 6
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\af.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ar.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ast.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\az.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\bg.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\bn.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\bs.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ca.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\cs.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\da.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\de-ch.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\de.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\el.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\en-au.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\en-gb.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\eo.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\es-co.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\es.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\et.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\eu.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\fa.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\fi.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\fr.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\gl.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\gu.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\he.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\hi.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\hr.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\hu.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\hy.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\id.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\it.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ja.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\jv.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\km.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\kn.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ko.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ku.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\lt.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\lv.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ms.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\nb.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ne.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\nl.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\no.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\oc.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\pl.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\pt-br.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\pt.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ro.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ru.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\si.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\sk.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\sl.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\sq.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\sr-latn.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\sr.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\sv.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\th.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\tk.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\tr.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\tt.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ug.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\uk.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\ur.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\uz.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\vi.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\zh-cn.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\build\translations\zh.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\package-lock.json", "JSON", 0, 0, 4663, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4664
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\package.json", "JSON", 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 0, 1, 50
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\sample\index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 0, 103, 0, 3, 1, 107
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\sample\script.js", "JavaScript", 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 21
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\sample\styles.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 408, 0, 0, 28, 79, 515
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\src\ckeditor.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 104, 0, 0, 0, 6, 7, 117
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\tsconfig.json", "JSON with Comments", 0, 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 1, 24
+"c:\Users\Robert Isaic\Desktop\doifrati-main\ckeditor5-cb\webpack.config.js", "JavaScript", 76, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 12, 97
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\analytics.js", "JavaScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 26
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Button\button.js", "JavaScript", 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 57
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Button\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Button\style.js", "JavaScript", 145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 165
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Cards\cards.js", "JavaScript", 54, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 58
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Cards\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Cards\style.js", "JavaScript", 135, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 148
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Chart\chart.js", "JavaScript", 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 18
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Chart\index.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Checkbox\checkbox.js", "JavaScript", 74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 11, 86
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Forms\contact-form.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 110, 0, 0, 0, 0, 0, 13, 123
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Heading\heading.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Heading\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Heading\style.js", "JavaScript", 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 112
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\ImageMagnifier\ImageMagnifier.js", "JavaScript", 59, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 66
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Modal\antd-modal.js", "JavaScript", 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 66
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Modal\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Modal\style.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 30
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Notification\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Notification\notification.js", "JavaScript", 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 8, 69
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\PageHeader\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\PageHeader\page-header.js", "JavaScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 30
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\PageHeader\style.js", "JavaScript", 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 18
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Slider\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Slider\slider.js", "JavaScript", 107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 11, 120
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Slider\style.js", "JavaScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 29
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Text\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Text\style.js", "JavaScript", 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 65
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\Text\text.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\cokie\Cookie.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\cokie\Cookie.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 73, 0, 0, 0, 0, 8, 10, 91
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\errorReformatted.js", "JavaScript", 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 22
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\other-styled-components.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 35
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\theme\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\atoms\theme\theme.js", "JavaScript", 143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 22, 182
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\add-product.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 687, 0, 0, 0, 0, 0, 78, 765
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\blog.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 191, 0, 0, 0, 0, 0, 9, 200
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\email-marketing.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 403, 0, 0, 0, 0, 0, 29, 432
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\group-products.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 197, 0, 0, 0, 0, 0, 18, 215
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\ind-blog-admin.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 706, 0, 0, 0, 0, 0, 37, 743
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\messages-forms.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 380, 0, 0, 0, 0, 1, 56, 437
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\orders.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 327, 0, 0, 0, 0, 1, 40, 368
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\product-stock.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 231, 0, 0, 0, 0, 0, 27, 258
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\reviews.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 189, 0, 0, 0, 0, 0, 26, 215
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\seo.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 221, 0, 0, 0, 0, 0, 20, 241
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\static-pages.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 7, 48
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\users.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 555, 0, 0, 0, 0, 0, 62, 617
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\admin\website-settings.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 658, 0, 0, 0, 0, 0, 46, 704
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\blog\blog-posts.js", "JavaScript", 171, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 199
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\checkout\checkout.js", "JavaScript", 1588, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 144, 1733
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\checkout\orase-dupa-judet.json", "JSON", 0, 0, 123881, 0, 0, 0, 0, 0, 0, 0, 0, 0, 123881
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\client-pages\ind-blog-post.js", "JavaScript", 291, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 310
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\dashboard\index.js", "JavaScript", 924, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 41, 967
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\dashboard\overview\top-selling-product.js", "JavaScript", 107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 114
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\dashboard\style.js", "JavaScript", 1160, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 43, 1210
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\footer\footer.js", "JavaScript", 362, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 393
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\footer\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\forms\blog-comment.js", "JavaScript", 58, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 62
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\home\benefits-section.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 204, 0, 0, 0, 0, 0, 23, 227
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\home\hero-section.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 184, 0, 0, 0, 0, 612, 76, 872
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\home\home-products-section.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 389, 0, 0, 0, 0, 0, 30, 419
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\home\newsletter-section.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 76, 0, 0, 0, 0, 0, 10, 86
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\modals\modal-account.js", "JavaScript", 691, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 51, 742
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\modals\modal-ind-order-admin.js", "JavaScript", 1390, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 110, 1514
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\modals\modal-message.js", "JavaScript", 435, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 37, 472
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\atoms\BarWrapper.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 18
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\atoms\BottomNavigationMobile.js", "JavaScript", 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 102
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\atoms\DiscountNavigation.js", "JavaScript", 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 45
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\atoms\FiltersModal.js", "JavaScript", 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 41
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\atoms\NotificationPopup.js", "JavaScript", 81, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 88
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\atoms\Sidebar.js", "JavaScript", 1346, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 96, 1442
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\atoms\TopBar.js", "JavaScript", 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 121
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\index.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\nav.js", "JavaScript", 561, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 62, 627
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\styled.js", "JavaScript", 223, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 56, 279
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\svg\cart.svg", "XML", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\svg\customer.svg", "XML", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\svg\heart.svg", "XML", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\svg\home.svg", "XML", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\svg\idei_cadouri.svg", "XML", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\svg\jucaria_lunii.svg", "XML", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\svg\search.svg", "XML", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\nav\svg\shoping_cart.svg", "XML", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\products\details-right.js", "JavaScript", 1047, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 103, 1152
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\products\filters.js", "JavaScript", 277, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 309
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\products\grid-of-products.js", "JavaScript", 158, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 181
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\products\individual-product.js", "JavaScript", 267, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 26, 294
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\products\product-cards.js", "JavaScript", 357, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 407
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\products\products-page.js", "JavaScript", 154, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 173
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\static-pages\view-static-page.js", "JavaScript", 47, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 59
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\organisms\style.js", "JavaScript", 1329, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 114, 1449
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\page_view.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\style.js", "JavaScript", 1526, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 100, 1648
+"c:\Users\Robert Isaic\Desktop\doifrati-main\components\test.js", "JavaScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 7
+"c:\Users\Robert Isaic\Desktop\doifrati-main\firebase.json", "JSON", 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 1, 11
+"c:\Users\Robert Isaic\Desktop\doifrati-main\jsconfig.json", "JSON with Comments", 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"c:\Users\Robert Isaic\Desktop\doifrati-main\lib\AntdRegistry.jsx", "JavaScript JSX", 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 4, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\next.config.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 17
+"c:\Users\Robert Isaic\Desktop\doifrati-main\package-lock.json", "JSON", 0, 0, 4695, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4696
+"c:\Users\Robert Isaic\Desktop\doifrati-main\package.json", "JSON", 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 1, 47
+"c:\Users\Robert Isaic\Desktop\doifrati-main\public\firebase-messaging-sw.js", "JavaScript", 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6, 27
+"c:\Users\Robert Isaic\Desktop\doifrati-main\public\firebase.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 40
+"c:\Users\Robert Isaic\Desktop\doifrati-main\public\img\CurvySection.svg", "XML", 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3
+"c:\Users\Robert Isaic\Desktop\doifrati-main\public\img\CurvySectionYellow.svg", "XML", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\cart\actionCreator.js", "JavaScript", 107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 130
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\cart\actions.js", "JavaScript", 131, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 157
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\cart\reducers.js", "JavaScript", 152, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 168
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\customStorage.js", "JavaScript", 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 25
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\favorites\actionCreator.js", "JavaScript", 33, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 42
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\favorites\actions.js", "JavaScript", 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 65
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\favorites\reducers.js", "JavaScript", 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 90
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\filters\actionCreator.js", "JavaScript", 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 6
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\filters\actions.js", "JavaScript", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\filters\reducers.js", "JavaScript", 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 23
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\orders\actionCreator.js", "JavaScript", 98, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 105
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\orders\actions.js", "JavaScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 28
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\orders\reducers.js", "JavaScript", 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 37
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\product\actionCreator.js", "JavaScript", 248, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 271
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\product\actions.js", "JavaScript", 86, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 102
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\product\reducers.js", "JavaScript", 103, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 112
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\provider.js", "JavaScript", 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 19
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\rootReducers.js", "JavaScript", 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 25
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\setariRules\actionCreater.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 22
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\setariRules\actions.js", "JavaScript", 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 28
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\setariRules\reducers.js", "JavaScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 29
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\stats\actionCreator.js", "JavaScript", 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 25
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\stats\actions.js", "JavaScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 29
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\stats\reducers.js", "JavaScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 32
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\store.js", "JavaScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 62
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\userInfo\actionCreator.js", "JavaScript", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 5, 47
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\userInfo\actions.js", "JavaScript", 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 29
+"c:\Users\Robert Isaic\Desktop\doifrati-main\redux\userInfo\reducers.js", "JavaScript", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 36
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\icons\left.svg", "XML", 0, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 20
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\icons\right.svg", "XML", 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\CarHome.svg", "XML", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\ChildHome.svg", "XML", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\CloudVectorMiniSvg.svg", "XML", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\CloudVectorMiniSvgWhite.svg", "XML", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\CurvySection.svg", "XML", 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\CurvySectionYellow.svg", "XML", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\HeroImg.svg", "XML", 0, 655, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 657
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\IconWhatsapp.svg", "XML", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\LogoTransparent.svg", "XML", 0, 634, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 636
+"c:\Users\Robert Isaic\Desktop\doifrati-main\static\img\ToyHome.svg", "XML", 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\Robert Isaic\Desktop\doifrati-main\utility\counties.js", "JavaScript", 43, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 44
+"c:\Users\Robert Isaic\Desktop\doifrati-main\utility\extractImageInfo.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 32
+"c:\Users\Robert Isaic\Desktop\doifrati-main\utility\renderBadge.js", "JavaScript", 62, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 68
+"c:\Users\Robert Isaic\Desktop\doifrati-main\utility\urlFormatting.js", "JavaScript", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9, 33
+"c:\Users\Robert Isaic\Desktop\doifrati-main\utility\utils.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"Total", "-", 20322, 1443, 133344, 30, 91, 7484, 138, 1791, 103, 9, 888, 3645, 169288
